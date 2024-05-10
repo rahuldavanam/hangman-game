@@ -1,5 +1,7 @@
 # Hangman game
 
+This code was compiled and uploaded from Visual Studio Code.
+
 ## How to compile the code and view the output
 
 In your command prompt / terminal, navigate to the path where thise code is downloaded and run the following commands:
