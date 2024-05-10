@@ -1,6 +1,6 @@
 # Hangman game
 
-This code was compiled and uploaded from Visual Studio Code.
+This code was compiled, committed and pushed from Visual Studio Code.
 
 ## How to compile the code and view the output
 
